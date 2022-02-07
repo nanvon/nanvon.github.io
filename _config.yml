@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://nanvon.cn
+url: https://nanvon.github.io
 date_format: "ordinal"
 title: 南枫的寻宝之旅
 subtitle: "公众号：南枫的寻宝之旅"
@@ -25,7 +25,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: false
-        start_date: 2020-05-03
+        start_date: 2022-02-07
     # My Popular Repositories
     side_bar_repo:
         enabled: true
