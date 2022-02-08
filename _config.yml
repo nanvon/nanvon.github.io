@@ -39,8 +39,8 @@ components:
         enabled: true
         image_alt: 南枫的寻宝之旅
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
-    wiki:
-        view: cate
+#    wiki:
+#        view: cate
 # 压缩页面内容
 compress_html:
   clippings: all
@@ -70,9 +70,9 @@ navs:
     href: /categories/
     label: 分类
 
-#   -
-#     href: /archives/
-#     label: 归档
+  -
+    href: /archives/
+    label: 归档
 
 #   -
 #     href: /open-source/
@@ -82,9 +82,9 @@ navs:
 #    href: /wiki/
 #    label: 维基
 
-  -
-    href: /links/
-    label: 链接
+  # -
+  #   href: /links/
+  #   label: 链接
 
   -
     href: /about/
@@ -134,19 +134,19 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: nanvon
-    repo: blog-comments
+    repo: nanvon.github.io
     oauth:
-        client_id: fd5aa9b0bb56c3dfd91b
-        client_secret: bcdcf6c3b6a6cc4516dc4b4d5035ac97af59d205
+        client_id: 0138102791d3aa0c948a
+        client_secret: cdf48d79efcab6af885f22c76c1f3bcb918466c0
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: nanvon
-    repo: blog-comments
-    clientID: fd5aa9b0bb56c3dfd91b
-    clientSecret: bcdcf6c3b6a6cc4516dc4b4d5035ac97af59d205
+    repo: nanvon.github.io
+    clientID: 0138102791d3aa0c948a
+    clientSecret: cdf48d79efcab6af885f22c76c1f3bcb918466c0
 # https://utteranc.es/
 utterances:
-    repo: nanvon/blog-comments
+    repo: nanvon/nanvon.github.io
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
@@ -162,11 +162,11 @@ simple_jekyll_search:
 # ---------------- #
 #      Google      #
 # ---------------- #
-google:
-    analytics_id: UA-80669434-1
-    adsense:
-        footer: true
-        sidebar: true 
-        sidebar-detail: true 
-        content_header: false
-        content_footer: false
+# google:
+#     analytics_id: UA-80669434-1
+#     adsense:
+#         footer: true
+#         sidebar: true 
+#         sidebar-detail: true 
+#         content_header: false
+#         content_footer: false
