@@ -1,7 +1,7 @@
 ---
 layout: post
 title: QCY-T5 真无线耳机业余体验报告
-categories: Electronic equipment
+categories: Digital
 description: QCY-T5 真无线耳机业余体验报告
 keywords: 阅读，沟通
 ---
