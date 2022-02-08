@@ -7,7 +7,7 @@ date_format: "ordinal"
 title: 南枫的寻宝之旅
 subtitle: "公众号：南枫的寻宝之旅"
 description: "南枫的个人博客，公众号：南枫的寻宝之旅"
-keywords: 南枫, Nanvon, 阅读, 写作, 代码
+keywords: 南枫Von, Nanvon, 阅读, 写作, 代码
 timezone: Asia/Hefei
 encoding: "utf-8"
 repository: nanvon/nanvon.github.io
@@ -51,7 +51,7 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Nanvon
+author: 南枫Von
 organization: 
 organization_url: 
 github_username: nanvon
