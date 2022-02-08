@@ -21,11 +21,11 @@ components:
     # weibo,qq,wechat,douban,qzone,linkedin,facebook,twitter
     share:
         enabled: true
-        hide-platforms: douban,qzone,linkedin,facebook,twitter
+        hide-platforms: qq,douban,qzone,linkedin,facebook,twitter
     # 不蒜子访问统计
     busuanzi:
         enabled: true
-        start_date: 2020-02-08
+        start_date: 2022-02-08
     # My Popular Repositories
     side_bar_repo:
         enabled: false
