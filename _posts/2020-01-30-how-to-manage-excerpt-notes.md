@@ -6,9 +6,7 @@ description: 如何处理并利用好书摘笔记
 keywords: 阅读、书摘
 ---
 
-阅读时，一直会有这样的问题：看完了一本书，却还没搞清楚这本书讲的是什么；甚至出现读到后面却忘了前面的情况；而即使做了书摘标注，也很少去回顾这些标注，因为翻阅每一本书的书摘笔记太不方便；对于较难懂的书，很难读下去也很难读懂。
-
-本文将围绕书摘标注展开叙述，内容涉及为什么需要书摘标注、如何利用书摘标注辅助阅读、如何处理书摘标注、如何将书摘标注导入印象笔记等。
+阅读时，一直会有这样的问题：看完了一本书，却还没搞清楚这本书讲的是什么；甚至出现读到后面却忘了前面的情况；而即使做了书摘标注，也很少去回顾这些标注，因为翻阅每一本书的书摘笔记太不方便；对于较难懂的书，很难读下去也很难读懂。本文将围绕书摘标注展开叙述，内容涉及为什么需要书摘标注、如何利用书摘标注辅助阅读、如何处理书摘标注、如何将书摘标注导入印象笔记等。
 
 **本文将解决的问题：**
 
@@ -172,24 +170,24 @@ keywords: 阅读、书摘
 
 ## 参考链接：
 
-用滴墨书摘让读书有始有终
+- 用滴墨书摘让读书有始有终
 
 [https://sspai.com/post/54888](https://link.zhihu.com/?target=https%3A//sspai.com/post/54888)
 
 
 
-一周 App 派评 | 近期值得关注的 13 款应用
+- 一周 App 派评 | 近期值得关注的 13 款应用
 
 [https://sspai.com/post/56844](https://link.zhihu.com/?target=https%3A//sspai.com/post/56844)
 
 
 
-得到APP：《如何阅读一本书》|玉裁解读
+- 得到APP：《如何阅读一本书》|玉裁解读
 
 [https://m.igetget.com](https://link.zhihu.com/?target=https%3A//m.igetget.com/share/sso/727844c67fae07dc90034e5eb31f63e2a1aca8a9f42ee06de05b2d3f337162b6aa005da95fc88584c6898cadf9a4000f5c91e0442c9b07e7cac225213d6424c72d3ea6af128b788f3e43a7eacb4647b6c9cd177edc42c6284d21eb2898802cccf5656db1563f179ab78c413b28808afe%3Flogin%3Dtrue%26pass_through%3D%26token%3Doauth2_ef0e1eca-4a89-49da-ad33-368946afecb2)
 
 
 
-得到APP：免费领取听书双月卡
+- 得到APP：免费领取听书双月卡
 
 [https://pic1cdn.luojilab.com](https://link.zhihu.com/?target=https%3A//pic1cdn.luojilab.com/html/p/x48MO0q/9ojx2R8NopTXx7VYQV0v.html%3Ffrom%3Dsinglemessage%26isappinstalled%3D0)
