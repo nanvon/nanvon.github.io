@@ -170,10 +170,8 @@ keywords: 阅读、书摘
 
 ## 参考链接
 
-[少数派：用滴墨书摘让读书有始有终](https://link.zhihu.com/?target=https%3A//sspai.com/post/54888)
+[少数派：用滴墨书摘让读书有始有终](https://sspai.com/post/54888)
 
-[一周 App 派评 | 近期值得关注的 13 款应用](https://link.zhihu.com/?target=https%3A//sspai.com/post/56844)
+[一周 App 派评 | 近期值得关注的 13 款应用](https://sspai.com/post/56844)
 
-[得到APP：《如何阅读一本书》|玉裁解读](https://link.zhihu.com/?target=https%3A//m.igetget.com/share/sso/727844c67fae07dc90034e5eb31f63e2a1aca8a9f42ee06de05b2d3f337162b6aa005da95fc88584c6898cadf9a4000f5c91e0442c9b07e7cac225213d6424c72d3ea6af128b788f3e43a7eacb4647b6c9cd177edc42c6284d21eb2898802cccf5656db1563f179ab78c413b28808afe%3Flogin%3Dtrue%26pass_through%3D%26token%3Doauth2_ef0e1eca-4a89-49da-ad33-368946afecb2)
-
-[得到APP：免费领取听书双月卡](https://link.zhihu.com/?target=https%3A//pic1cdn.luojilab.com/html/p/x48MO0q/9ojx2R8NopTXx7VYQV0v.html%3Ffrom%3Dsinglemessage%26isappinstalled%3D0)
+得到APP：《如何阅读一本书》|玉裁解读
