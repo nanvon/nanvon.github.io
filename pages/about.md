@@ -10,7 +10,7 @@ permalink: /about/
 
 ## Introduction
 
-Code-Read-Think
+Read-Think-Write-Code
 
 ## Find Me
 
