@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: 寻宝之旅，即刻启程
+description: 寻宝之旅，即刻就启程
 keywords: Nanvon
 comments: true
 menu: 关于
