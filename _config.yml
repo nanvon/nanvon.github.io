@@ -134,19 +134,19 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: nanvon
-    repo: nanvon.github.io
+    repo: blog-comments
     oauth:
         client_id: 0138102791d3aa0c948a
         client_secret: cdf48d79efcab6af885f22c76c1f3bcb918466c0
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: nanvon
-    repo: nanvon.github.io
+    repo: blog-comments
     clientID: 0138102791d3aa0c948a
     clientSecret: cdf48d79efcab6af885f22c76c1f3bcb918466c0
 # https://utteranc.es/
 utterances:
-    repo: nanvon/nanvon.github.io
+    repo: blog-comments
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
