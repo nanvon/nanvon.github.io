@@ -5,7 +5,7 @@ baseurl:
 url: https://nanvon.cn
 date_format: "ordinal"
 title: 南枫的寻宝之旅
-subtitle: "公众号：南枫的寻宝之旅(ID:nanvon_hsu)"
+# subtitle: "公众号：南枫的寻宝之旅(ID:nanvon_hsu)"
 description: "寻宝之旅，即刻就启程"
 keywords: 南枫Von, Nanvon, 阅读, 写作, 代码
 timezone: Asia/Hefei
