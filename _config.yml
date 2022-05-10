@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://www.nanvon.cn
+url: https://nanvon.cn
 date_format: "ordinal"
 title: 南枫的寻宝之旅
 subtitle: "公众号：南枫的寻宝之旅(ID:nanvon_hsu)"
