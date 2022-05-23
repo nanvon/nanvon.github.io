@@ -6,7 +6,8 @@ description: ElementPlus日期组件设置一周起始日
 keywords: 前端
 ---
 
-> 周起始日涉及到国际化配置
+> 周起始日涉及到国际化配置  
+
 #### 配置国际化
 ElementUI日期组件提供了 `firstDayOfWeek`属性，可以设置周起始日，但是ElementPlus未提供该属性，文档里只提到[“日期相关的文字（月份，每一周的第一天等等）也都是通过国际化来配置的。”](https://element-plus.org/zh-CN/component/date-picker.html#%E5%9B%BD%E9%99%85%E5%8C%96)<br />在项目中main.js文件内配置国际化，再配置dayjs国际化。（第7、8、10行）<br />再使用日期组件，一周起始日就是周一了。
 ```javascript
