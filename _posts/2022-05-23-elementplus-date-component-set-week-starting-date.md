@@ -1,9 +1,9 @@
 ---
 layout: post
 title: ElementPlus日期组件设置一周起始日
-categories:  [编程, 前端]
+categories:  前端
 description: ElementPlus日期组件设置一周起始日
-keywords: 前端
+keywords: 前端、编程、组件
 ---
 
 > 周起始日涉及到国际化配置  
