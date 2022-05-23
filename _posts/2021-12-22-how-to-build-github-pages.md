@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 如何在GitHub上搭建个人网站（github.io）
-categories: GitHub
+categories: 编程
 description: 使用 GitHub Pages 搭建个人网站
 keywords: GitHub Pages、github.io、个人网站
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 白嫖1Password家庭版一年~真香!
-categories: Tool
+categories: 工具
 description: 使用密码管理器管理密码
 keywords: 工具、密码
 ---

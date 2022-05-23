@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 利用iCloud同步管理Chrome与Safari的书签
-categories: Tool
+categories: 工具
 description: 利用iCloud同步管理Chrome与Safari的书签
 keywords: 工具、书签、浏览器
 ---

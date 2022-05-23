@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 如何处理并利用好书摘笔记
-categories: Read
+categories: 阅读
 description: 如何处理并利用好书摘笔记
 keywords: 阅读、书摘
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 江同志为何爱念诗？
-categories: Read
+categories: 阅读
 description: 江同志有三大爱好，艺术、科学和教育
 keywords: 阅读
 ---
