@@ -14,7 +14,7 @@ keywords: 编程
 Font | <a href="http://input.fontbureau.com/">Input Mono</a>、<a href="https://github.com/tonsky/FiraCode">Fira Code</a>、<a href="https://www.ztxz.org.cn/fangzheng/9878.html">方正聚珍新仿简体</a>（下载方正官方正版字体，使用 FontCreator 加粗）<br>
 File Icons | <a href="https://marketplace.visualstudio.com/items?itemName=JonathanHarty.gruvbox-material-icon-theme">Gruvbox Material Icon Theme<br>
 </a>Product Icons | <a href="https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon">Carbon Product Icons</a></samp></sub>
-</p>
+
 
 <br>
 <img src="https://img.nanvon.cn/2022-0328-09:58:19:691.png">
@@ -86,5 +86,5 @@ MIT
 
 
 
-
-本文 GitHub 仓库地址：https://github.com/nanvon/vscode-settings
+<br/>
+本文 GitHub 仓库地址：[nanvon/vscode-settings](https://github.com/nanvon/vscode-settings)
