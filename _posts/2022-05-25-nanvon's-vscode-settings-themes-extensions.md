@@ -28,7 +28,7 @@ File Icons | <a href="https://marketplace.visualstudio.com/items?itemName=Jonath
 | name | item name in marketplace | remark | 个性化配置 |
 | :-- | ----------- | :-- | --- |
 | 别名路径跳转 | lihuiwang.vue-alias-skip | 鼠标移动到路径上，按住`ctrl`并单击就会跳转 |  |
-| 翻译(英汉词典) | CodeInChinese.EnglishChineseDictionary | 悬浮单词上显示翻译、在状态栏中显示选中词的释义，支持驼峰和下划线命名查询 |  |
+| 翻译(英汉词典) | CodeInChinese.EnglishChineseDictionary | 悬浮单词上显示翻译、在状态栏中显示选中词的释义，支持驼峰和下划线命名查询 | 快捷键：Shift+Alt+T |
 | 驼峰翻译助手 | svenzhao.var-translation | 驼峰变量翻译 |  |
 | Auto Close Tag | formulahendry.auto-close-tag | 自动关闭标签 |  |
 | Auto Rename Tag | formulahendry.auto-rename-tag | 自动重命名标签 |  |
