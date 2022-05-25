@@ -27,7 +27,7 @@ File Icons | <a href="https://marketplace.visualstudio.com/items?itemName=Jonath
 
 | name | item name in marketplace | remark | 个性化配置 |
 | :-- | ----------- | :-- | --- |
-| 别名路径跳转 | lihuiwang.vue-alias-skip | 鼠标移动到路径上，按住`ctrl`并单击就会跳转 |  |
+| 别名路径跳转 | lihuiwang.vue-alias-skip | 鼠标移动到路径上，按住Ctrl并单击就会跳转 |  |
 | 翻译(英汉词典) | CodeInChinese.EnglishChineseDictionary | 悬浮单词上显示翻译、在状态栏中显示选中词的释义，支持驼峰和下划线命名查询 | 快捷键：Shift+Alt+T |
 | 驼峰翻译助手 | svenzhao.var-translation | 驼峰变量翻译 |  |
 | Auto Close Tag | formulahendry.auto-close-tag | 自动关闭标签 |  |
@@ -71,7 +71,7 @@ File Icons | <a href="https://marketplace.visualstudio.com/items?itemName=Jonath
 | Trailing Spaces | shardulm94.trailing-spaces | 高亮空格 | |
 | V2EX Playground | chaselen.v2ex-playground | V2EX | |
 | Vitesse Theme | antfu.theme-vitesse | 好看的主题 | 浅色、深色等四种主题，我在使用Vitesse Dark Soft |
-| Vue Jump to Tag | andersonmfjr.vue-jumptotag | 快速跳转至template、script、style标签 | 安装后配置键盘快捷方式，搜索 extension.jumpto ，给这三个依次配置一下快捷键。我配置了 template 和 script 标签的快捷键，shift+alt+t 、shift+alt+s ，供参考。 |
+| Vue Jump to Tag | andersonmfjr.vue-jumptotag | 快速跳转至template、script、style标签 | 安装后配置键盘快捷方式，搜索 extension.jumpto ，给这三个依次配置一下快捷键。我配置了 template 和 script 标签的快捷键，Shift+Alt+T 、Shift+Alt+S，供参考。 |
 | Vloar | Vue.volar | Vue3 必备插件 | |
 | Vue Peek | dariofuzinato.vue-peek | 快速跳转Vue组件 | |
 | WakaTime | WakaTime.vscode-wakatime | 记录写代码的时长 | |
