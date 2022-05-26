@@ -42,7 +42,7 @@ File Icons | <a href="https://marketplace.visualstudio.com/items?itemName=Jonath
 | CSS Peek | pranaygp.vscode-css-peek | CSS属性快速跳转 |  |
 | Error Lens | usernamehw.errorlens | 直接显示每行报错信息 |  |
 | File Nesting Updater | antfu.file-nesting | 根目录文件收纳 |  |
-| GitHub Copilot | GitHub.copilot | AI帮写代码，程序员的好帮手，超好用 | [点击加入体验](https://copilot.github.com/) |
+| GitHub Copilot | GitHub.copilot | AI帮写代码，程序员的好帮手，超好用 | 修改快捷键，搜索editor.action.inlineSuggest.commit，将Tab修改为Tab+1，以免Tab键冲突 [点击加入体验](https://copilot.github.com/) |
 | Git Graph | mhutchie.git-graph | Git |  |
 | Git History | donjayamanne.githistory | Git历史 |  |
 | GitLens — Git supercharged | eamodio.gitlens | 可以显示每一行的git信息（提交信息、提交人、时间） |  |
